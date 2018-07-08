@@ -62,5 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Facebook and their diligent community through the production, stabalization and supportt of ReactJS
+* Facebook and their diligent community through the production, stabalization and support of ReactJS
 * Brock University and their development of awesome Badgers
